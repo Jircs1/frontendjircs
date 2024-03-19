@@ -37,7 +37,7 @@
     "@metamask/post-message-stream": "^7.0.0",
     "@metamask/providers": "^10.2.1",
     "@monaco-editor/react": "^4.4.6",
-    "@next/bundle-analyzer": "^14.0.1",
+    "@next/bundle-analyzer": "^14.1.0",
     "@opentelemetry/auto-instrumentations-node": "^0.39.4",
     "@opentelemetry/exporter-metrics-otlp-proto": "^0.45.1",
     "@opentelemetry/exporter-trace-otlp-http": "^0.45.0",
